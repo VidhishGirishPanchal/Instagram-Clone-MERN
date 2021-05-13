@@ -1,0 +1,26 @@
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  border-radius: 80px;
+  margin: 5%;
+}
+.flexing {
+  display: flex;
+  justify-content: space-around;
+
+  margin: 18px 0px;
+  border-bottom: 1px solid #cdcfd1;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item {
+  width: 30%;
+  padding-bottom: 2%;
+}
+.profilemain {
+  max-width: 950px;
+  margin: 0px auto;
+}
